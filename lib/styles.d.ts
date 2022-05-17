@@ -46,5 +46,10 @@ declare const styles: {
         color: string;
         flex: number;
     };
+     downArrow: { 
+        marginLeft:number;
+        height:number;
+        width:number;
+    };
 };
 export default styles;
